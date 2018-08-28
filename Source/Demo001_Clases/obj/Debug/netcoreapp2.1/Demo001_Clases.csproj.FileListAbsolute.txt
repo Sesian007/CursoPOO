@@ -1,0 +1,11 @@
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\bin\Debug\netcoreapp2.1\Demo001_Clases.deps.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\bin\Debug\netcoreapp2.1\Demo001_Clases.runtimeconfig.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\bin\Debug\netcoreapp2.1\Demo001_Clases.runtimeconfig.dev.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\bin\Debug\netcoreapp2.1\Demo001_Clases.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\bin\Debug\netcoreapp2.1\Demo001_Clases.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\obj\Debug\netcoreapp2.1\Demo001_Clases.csprojAssemblyReference.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\obj\Debug\netcoreapp2.1\Demo001_Clases.csproj.CoreCompileInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\obj\Debug\netcoreapp2.1\Demo001_Clases.AssemblyInfoInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\obj\Debug\netcoreapp2.1\Demo001_Clases.AssemblyInfo.cs
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\obj\Debug\netcoreapp2.1\Demo001_Clases.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\ProgramacionOrientadaAObjetos\Source\Demo001_Clases\obj\Debug\netcoreapp2.1\Demo001_Clases.pdb
