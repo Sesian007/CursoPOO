@@ -1,0 +1,11 @@
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\bin\Debug\netcoreapp2.1\ManejoDeDiscos.deps.json
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\bin\Debug\netcoreapp2.1\ManejoDeDiscos.runtimeconfig.json
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\bin\Debug\netcoreapp2.1\ManejoDeDiscos.runtimeconfig.dev.json
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\bin\Debug\netcoreapp2.1\ManejoDeDiscos.dll
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\bin\Debug\netcoreapp2.1\ManejoDeDiscos.pdb
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\obj\Debug\netcoreapp2.1\ManejoDeDiscos.csprojAssemblyReference.cache
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\obj\Debug\netcoreapp2.1\ManejoDeDiscos.csproj.CoreCompileInputs.cache
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\obj\Debug\netcoreapp2.1\ManejoDeDiscos.AssemblyInfoInputs.cache
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\obj\Debug\netcoreapp2.1\ManejoDeDiscos.AssemblyInfo.cs
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\obj\Debug\netcoreapp2.1\ManejoDeDiscos.dll
+Z:\ProgramacionOrientadaAObjetos\ManejoDeDiscos\obj\Debug\netcoreapp2.1\ManejoDeDiscos.pdb

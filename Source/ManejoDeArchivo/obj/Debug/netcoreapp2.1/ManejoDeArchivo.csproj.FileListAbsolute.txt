@@ -1,0 +1,11 @@
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\bin\Debug\netcoreapp2.1\ManejoDeArchivo.deps.json
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\bin\Debug\netcoreapp2.1\ManejoDeArchivo.runtimeconfig.json
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\bin\Debug\netcoreapp2.1\ManejoDeArchivo.runtimeconfig.dev.json
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\bin\Debug\netcoreapp2.1\ManejoDeArchivo.dll
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\bin\Debug\netcoreapp2.1\ManejoDeArchivo.pdb
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\obj\Debug\netcoreapp2.1\ManejoDeArchivo.csprojAssemblyReference.cache
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\obj\Debug\netcoreapp2.1\ManejoDeArchivo.csproj.CoreCompileInputs.cache
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\obj\Debug\netcoreapp2.1\ManejoDeArchivo.AssemblyInfoInputs.cache
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\obj\Debug\netcoreapp2.1\ManejoDeArchivo.AssemblyInfo.cs
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\obj\Debug\netcoreapp2.1\ManejoDeArchivo.dll
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeArchivo\obj\Debug\netcoreapp2.1\ManejoDeArchivo.pdb

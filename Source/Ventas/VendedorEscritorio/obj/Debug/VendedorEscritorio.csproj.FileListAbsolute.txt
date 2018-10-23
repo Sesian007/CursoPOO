@@ -1,0 +1,11 @@
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\bin\Debug\VendedorEscritorio.exe.config
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\bin\Debug\VendedorEscritorio.exe
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\bin\Debug\VendedorEscritorio.pdb
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.csprojAssemblyReference.cache
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.Properties.Resources.resources
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.csproj.GenerateResource.cache
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.csproj.CoreCompileInputs.cache
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.exe
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.pdb
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.Form1.resources
+Z:\ProgramacionOrientadaAObjetos\Source\Ventas\VendedorEscritorio\obj\Debug\VendedorEscritorio.ProductosForm.resources

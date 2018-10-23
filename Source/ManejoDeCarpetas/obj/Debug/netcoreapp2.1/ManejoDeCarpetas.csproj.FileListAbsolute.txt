@@ -1,0 +1,10 @@
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\bin\Debug\netcoreapp2.1\ManejoDeCarpetas.deps.json
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\bin\Debug\netcoreapp2.1\ManejoDeCarpetas.runtimeconfig.json
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\bin\Debug\netcoreapp2.1\ManejoDeCarpetas.runtimeconfig.dev.json
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\bin\Debug\netcoreapp2.1\ManejoDeCarpetas.dll
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\bin\Debug\netcoreapp2.1\ManejoDeCarpetas.pdb
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\obj\Debug\netcoreapp2.1\ManejoDeCarpetas.csproj.CoreCompileInputs.cache
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\obj\Debug\netcoreapp2.1\ManejoDeCarpetas.AssemblyInfoInputs.cache
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\obj\Debug\netcoreapp2.1\ManejoDeCarpetas.AssemblyInfo.cs
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\obj\Debug\netcoreapp2.1\ManejoDeCarpetas.dll
+Z:\ProgramacionOrientadaAObjetos\Source\ManejoDeCarpetas\obj\Debug\netcoreapp2.1\ManejoDeCarpetas.pdb
